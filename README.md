@@ -2,7 +2,7 @@
 
 Estudante de CTeSP em Tecnologias e Programação de Sistemas de Informação. <br>Atualmente a desenvolver conhecimentos em Java, HTML, CSS e PHP, com vontade de continuar a aprender e evoluir na área.
 
-<hr style="height: 4px; background-color: #30363d; border: none;">
+---
 
 ### 🛠️ Linguagens e Ferramentas
 #### Programming
